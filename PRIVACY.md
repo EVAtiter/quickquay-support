@@ -1,6 +1,6 @@
 # Privacy Policy / プライバシーポリシー
 
-**Last updated / 最終更新日: 2026-05-14**
+**Last updated / 最終更新日: 2026-11-05**
 
 ---
 
@@ -57,10 +57,9 @@ QuickQuay（以下「本アプリ」）は、ユーザーのプライバシー�
 
 ### 8. お問い合わせ
 
-ご質問・ご意見は GitHub Discussions または Email までお願いします:
+ご質問・ご意見は GitHub Discussions までお願いします:
 
 - GitHub Discussions: https://github.com/EVAtiter/quickquay-support/discussions
-- Email: info@slack-kingdom.com
 
 ---
 
@@ -117,7 +116,6 @@ This policy may be revised without prior notice. When changes are made, the "Las
 
 ### 8. Contact
 
-For questions or feedback, please use GitHub Discussions or Email:
+For questions or feedback, please use GitHub Discussions:
 
 - GitHub Discussions: https://github.com/EVAtiter/quickquay-support/discussions
-- Email: info@slack-kingdom.com
