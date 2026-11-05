@@ -10,7 +10,7 @@ And for those using multiple monitors — "Wouldn't it be great if the same Dock
 
 Putting those "one more" wishes into shape, one at a time, is how QuickQuay came to be.
 
-This repository is the **support / questions / requests / bug reports** channel for QuickQuay (Mac App Store edition). Source code and binaries are not distributed here; the app is available via the Mac App Store.
+This repository is the **support / questions / requests / bug reports** channel for QuickQuay (Mac App Store edition). The app is available via the Mac App Store.
 
 ---
 
